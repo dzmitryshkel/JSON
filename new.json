@@ -1,0 +1,13 @@
+{
+"name": "Dzmitry Shkel",
+"age": 21,
+"jobTitle": "novice QA Engineer",
+"pet": {
+"name": "Elsa",
+"species": "pygmy doberman"
+},
+"salaryExpectations": {
+"currency": "euros",
+"amount": 600,
+"position": "QA Junior"
+}
